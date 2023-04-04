@@ -1,1 +1,2 @@
-# MangeCompanySite
+# ManageCompanySite
+. Tailwind framework
